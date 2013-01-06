@@ -1,4 +1,4 @@
-php-zero-to-hero
+PHP Zero to Hero
 ================
 
-PHP Zero To Hero
+Lessons and info about how to go from being a php zero to a php hero
